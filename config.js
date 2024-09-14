@@ -7,17 +7,17 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2349043544267']
-global.ownMain = '2349043544267'
+global.owner = ['2349018468543']
+global.ownMain = '2349018468543'
 global.NamaOwner = '𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ' //gausah diganti
 global.sessionName = 'sessionnya'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'λ𝐂ε➻➊' //ganti aj klo mau
 global.author = '𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ' //ganti aj klo mau
 global.packname = '𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ' //ganti aj klo mau
-global.url1 = 'https://wa.me/2347041232443' //gausah diganti
-global.url2 = 'https://wa.me/2347041232443' //gausah diganti
-global.linkgc = 'https://wa.me/2347041232443'
+global.url1 = 'https://wa.me/2347089532266' //gausah diganti
+global.url2 = 'https://wa.me/2347089532266' //gausah diganti
+global.linkgc = 'https://wa.me/2347089532266'
 global.delayjpm = 3500
 
 global.mess = { // Custom Sesuka Lu
