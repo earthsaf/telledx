@@ -7,8 +7,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2349018468543']
-global.ownMain = '2349018468543'
+global.owner = ['2347017055600']
+global.ownMain = '2347017055600'
 global.NamaOwner = '𝐉𝐎𝐒𝐄𝐏𝐇ᵍʳᵉʸ' //gausah diganti
 global.sessionName = 'sessionnya'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
